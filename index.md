@@ -48,11 +48,11 @@
 
 ## 店员一览
 
-点击名字可以查看个人主页哇！
+点击名牌可以查看个人主页哇！
 
-[店长  Elitea](https://irrelanawyiaelitea.github.io/wuyucafe/character/elitea)
+<a href="https://irrelanawyiaelitea.github.io/wuyucafe/character/elitea"><img src="character\elitea.png" alt="Elitea" style="zoom: 70%;" /> </a>
 
-<img src="character\elitea.png" alt="Elitea" style="zoom: 80%;" />
+
 
 
 
